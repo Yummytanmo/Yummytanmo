@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Welcome to my blog
+# Welcome to my blog
 https://blog.yummytanmo.fun/
 
 <picture>
