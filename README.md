@@ -7,6 +7,7 @@ Hi there! I'm Wang Wenxuan, currently a third-year undergraduate majoring in Art
 During my studies, I’ve actively participated in various research projects and lab experiments. My GitHub is a record of my progress and fun projects—feel free to check it out or collaborate!
 
 Personal website: [https://blog.yummytanmo.fun](https://blog.yummytanmo.fun)
+
 Let’s connect and make AI research more fun together!
 
 <picture>
