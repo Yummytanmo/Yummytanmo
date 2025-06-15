@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### Welcome to my blog
-https://blog.yummytanmo.fun/
+
+[![Blog]( https://img.shields.io/badge/Blog-Yummytanmo-purple)](https://blog.yummytanmo.fun/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummytanmo/yummytanmo/output/github-contribution-grid-snake-dark.svg">
