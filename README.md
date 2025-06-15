@@ -1,4 +1,4 @@
-## Hi there 👋]
+## Hi there 👋
 
 [![Blog](https://img.shields.io/badge/Blog-Yummytanmo-purple)](https://blog.yummytanmo.fun/)
 
