@@ -2,9 +2,19 @@
 
 [![Blog](https://img.shields.io/badge/Blog-Yummytanmo-purple)](https://blog.yummytanmo.fun/)
 
-Hi there! I'm Wang Wenxuan, currently a third-year undergraduate majoring in Artificial Intelligence at Harbin Institute of Technology. I’m passionate about AI, programming, and exploring cool research topics. I love tackling real-world problems with creative solutions and keeping up with the latest in deep learning and NLP.
+Hi there! I'm **Wang Wenxuan**.
 
-During my studies, I’ve actively participated in various research projects and lab experiments. My GitHub is a record of my progress and fun projects—feel free to check it out or collaborate!
+**🎓 About Me**
+I'm transitioning from an undergrad to a **Joint PhD Student** at **HIT-SCIR** and **Shanghai AI Lab**. I'm passionate about bridging the gap between deep learning research and real-world applications.
+
+**🔭 Research**
+My current obsession is **AI Agents**. I'm investigating how to build smarter, more robust agents that can handle long-horizon tasks.
+
+**💻 Code**
+I love open source! Here you'll find:
+* 🤖 Research implementations related to **Agents** and **NLP**.
+* 🛠️ Tools and utilities I use for deep learning.
+* ⚡ Fun side projects from my undergrad days.
 
 Personal website: [https://blog.yummytanmo.fun](https://blog.yummytanmo.fun)
 
