@@ -16,7 +16,6 @@ I love open source! Here you'll find:
 * 🛠️ Tools and utilities I use for deep learning.
 * ⚡ Fun side projects from my undergrad days.
 
-Personal website: [https://blog.yummytanmo.fun](https://blog.yummytanmo.fun)
 
 Let’s connect and make AI research more fun together!
 
